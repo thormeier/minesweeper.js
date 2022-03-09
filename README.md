@@ -2,7 +2,7 @@
 
 A simple emoji based Minesweeper clone, playable on the CLI!
 
-![A screenshot of the Minesweeper.js CLI](minesweeper.png)
+![A screenshot of the Minesweeper.js CLI](https://raw.githubusercontent.com/thormeier/minesweeper.js/main/minesweeper.png)
 
 ## Usage
 

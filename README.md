@@ -6,7 +6,7 @@ A simple emoji based Minesweeper clone, playable on the CLI!
 
 ## Usage
 
-Download by cloning this repository, start it by running `node minesweeper.js` or executing `npx minesweeper.js`
+Download by cloning this repository, start it by running `node minesweeper.js` or executing `npx minesweeper-cli.js`
 
 ## Arguments
 

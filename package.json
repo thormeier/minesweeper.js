@@ -1,5 +1,5 @@
 {
-  "name": "minesweeper.js",
+  "name": "minesweeper-cli.js",
   "version": "1.0.0",
   "description": "A simple CLI minesweeper clone",
   "main": "minesweeper.js",
